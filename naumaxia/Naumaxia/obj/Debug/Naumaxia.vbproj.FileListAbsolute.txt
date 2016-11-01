@@ -1,0 +1,10 @@
+C:\Users\Daino\Desktop\ναυμαχια form\Naumaxia\bin\Debug\Naumaxia_Windows_Form.exe
+C:\Users\Daino\Desktop\ναυμαχια form\Naumaxia\bin\Debug\Naumaxia_Windows_Form.pdb
+C:\Users\Daino\Desktop\ναυμαχια form\Naumaxia\bin\Debug\Naumaxia_Windows_Form.xml
+C:\Users\Daino\Desktop\ναυμαχια form\Naumaxia\obj\Debug\Naumaxia.vbprojResolveAssemblyReference.cache
+C:\Users\Daino\Desktop\ναυμαχια form\Naumaxia\obj\Debug\Naumaxia_Windows_Form.form.resources
+C:\Users\Daino\Desktop\ναυμαχια form\Naumaxia\obj\Debug\Naumaxia_Windows_Form.Resources.resources
+C:\Users\Daino\Desktop\ναυμαχια form\Naumaxia\obj\Debug\Naumaxia.vbproj.GenerateResource.Cache
+C:\Users\Daino\Desktop\ναυμαχια form\Naumaxia\obj\Debug\Naumaxia_Windows_Form.exe
+C:\Users\Daino\Desktop\ναυμαχια form\Naumaxia\obj\Debug\Naumaxia_Windows_Form.xml
+C:\Users\Daino\Desktop\ναυμαχια form\Naumaxia\obj\Debug\Naumaxia_Windows_Form.pdb

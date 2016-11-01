@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Naumaxia_Windows_Form
+</name>
+</assembly>
+<members>
+<member name="T:Naumaxia_Windows_Form.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Naumaxia_Windows_Form.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Naumaxia_Windows_Form.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Naumaxia_Windows_Form.My.Resources.Resources.c457117f_0621_45b9_a276_8656954f7094_60">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
